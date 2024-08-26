@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    广智-->
+    <bean id="guangzhi" class="com.squ.Student"/>
+
+<!--    广谋-->
+    <bean id="guangmou" class="com.squ.Student"/>
+
+<!--    有参数的构造方法-->
+    <bean id="huangfeng" class="com.squ.Student">
+        <constructor-arg name="stuno" value="S1003"/>
+        <constructor-arg name="stuname" value="黄风"/>
+        <constructor-arg name="age" value="200"/>
+        <constructor-arg name="gender" value="女"/>
+    </bean>
+
+</beans>
