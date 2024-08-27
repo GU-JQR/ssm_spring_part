@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    设置注入 通过setter方法 要求模版中必须有 属性 setter方法 p.setName("ljj")-->
+    <bean id="person" class="com.squ.entity.Person">
+        <property name="name" value="ljj"/>
+        <property name="age" value="18"/>
+        <property name="height" value="185"/>
+        <property name="weight" value="200"/>
+        <property name="gender" value="man"/>
+        <property name="dog" ref="d1"/>
+    </bean>
+
+    <bean id="d1" class="com.squ.entity.Dog">
+        <property name="age" value="3"/>
+        <property name="color" value="黑"/>
+        <property name="type" value="藏獒"/>
+    </bean>
+</beans>

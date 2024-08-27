@@ -62,4 +62,20 @@ public class Test {
         logger.debug(person.toString());
         atx.close();
     }
+
+    @org.junit.jupiter.api.Test
+    public void test6(){
+        //获取spring容器对象
+        ClassPathXmlApplicationContext atx=new ClassPathXmlApplicationContext("application04.xml");
+        Person zhangsanfeng = atx.getBean("zhangsanfeng", Person.class);
+        System.out.println(zhangsanfeng.toString());
+    }
+
+    @org.junit.jupiter.api.Test
+    public void test7(){
+        //获取spring容器对象
+        ClassPathXmlApplicationContext atx=new ClassPathXmlApplicationContext("application05.xml");
+        Person person = atx.getBean("person", Person.class);
+        System.out.println(person.toString());
+    }
 }

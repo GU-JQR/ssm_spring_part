@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!--    1.构造函数方式注入属性 类模板需要有带参构造-->
+<!--    当我们创建bean的时候,如何将属性赋值-->
+    <bean id="zhangsanfeng" class="com.squ.entity.Person">
+        <constructor-arg name="name" value="jqr"/>
+        <constructor-arg name="age" value="20"/>
+        <constructor-arg name="gender" value="男"/>
+        <constructor-arg name="height" value="180"/>
+        <constructor-arg name="weight" value="100"/>
+<!--        引用小狗的实例-->
+        <constructor-arg name="dog" ref="dog2"/>
+    </bean>
+
+    <bean id="dog1" class="com.squ.entity.Dog">
+        <constructor-arg name="age" value="1"/>
+        <constructor-arg name="color" value="白色"/>
+        <constructor-arg name="type" value="田园犬"/>
+    </bean>
+
+    <bean id="dog2" class="com.squ.entity.Dog">
+        <constructor-arg name="age" value="2"/>
+        <constructor-arg name="color" value="黑色"/>
+        <constructor-arg name="type" value="田园犬"/>
+    </bean>
+
+</beans>
