@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!--使用静态工厂创建对象  factory-method指向工厂的静态方法-->
+    <bean id="moonCake1" class="com.squ.factory.FoodFactory" factory-method="getInstance"/>
+
+<!--    通过实例工厂创建宠物对象
+        1.获取实例对象工厂-->
+    <bean class="com.squ.factory.PeiFactory" id="petFactory"/>
+
+<!--    2.根据实例工厂创建宠物对象-->
+    <bean id="d1" factory-bean="petFactory" factory-method="getPet"/>
+</beans>
