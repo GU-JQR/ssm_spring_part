@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    手动添加p命名空间
+        设值注入简化形式 同样的也需要setter方法
+        在bean里面  通过p:xx =xx方式注入值
+-->
+
+    <bean id="person" class="com.squ.entity.Person" p:name="lzg" p:age="20" p:gender="22" p:height="165" p:weight="60" p:dog-ref="d1"/>
+
+    <bean id="d1" class="com.squ.entity.Dog">
+        <property name="type" value="田园"/>
+        <property name="color" value="黄色"/>
+        <property name="age" value="3"/>
+    </bean>
+</beans>

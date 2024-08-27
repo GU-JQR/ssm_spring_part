@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    1.数组属性注入-->
+    <bean class="com.squ.entity.Collection" id="bean1">
+        <property name="arrs">
+            <array>
+                <value>蛋糕</value>
+                <value>可乐</value>
+                <value>炸鸡腿</value>
+            </array>
+        </property>
+    </bean>
+<!--2.list注入-->
+    <bean class="com.squ.entity.Collection" id="bean2">
+        <property name="list">
+            <list>
+                <value>t桖</value>
+                <value>短裤</value>
+                <value>凉鞋</value>
+            </list>
+        </property>
+    </bean>
+<!--    3.set集合-->
+    <bean class="com.squ.entity.Collection" id="bean3">
+        <property name="set">
+            <set>
+                <value>4x100</value>
+                <value>铁人三项</value>
+                <value>举重</value>
+                <value>铁人三项</value>
+            </set>
+        </property>
+    </bean>
+    <!--    4.map集合-->
+    <bean class="com.squ.entity.Collection" id="bean4">
+        <property name="map">
+            <map>
+                <entry key="zhangsan" value="99"/>
+                <entry key="lisi" value="98"/>
+                <entry key="zhaoliu" value="78"/>
+            </map>
+        </property>
+    </bean>
+
+<!--    5.map集合 key:string value:dog-->
+    <bean id="bean5" class="com.squ.entity.Collection">
+        <property name="pets">
+            <map>
+                <entry key="zhangsan" value-ref="d1"/>
+                <entry key="guojing" value-ref="d2"/>
+            </map>
+        </property>
+    </bean>
+    <bean class="com.squ.entity.Dog" id="d1">
+        <property name="type" value="田园"/>
+        <property name="color" value="白色"/>
+        <property name="age" value="2"/>
+    </bean>
+
+    <bean class="com.squ.entity.Dog" id="d2">
+        <property name="type" value="田园"/>
+        <property name="color" value="白色"/>
+        <property name="age" value="2"/>
+    </bean>
+
+<!--    6.properties 配置文件类-->
+    <bean id="bean6" class="com.squ.entity.Collection">
+        <property name="properties">
+            <props>
+                <prop key="driver">com.mysql.jdbc.driver</prop>
+                <prop key="uesrname">root</prop>
+                <prop key="password">abc123</prop>
+            </props>
+        </property>
+    </bean>
+</beans>

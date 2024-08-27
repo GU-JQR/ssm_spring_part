@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    spE spring 表达式语言 #{xx}
+        #{} 可以解析表达式
+-->
+    <bean id="person" class="com.squ.entity.Person">
+        <property name="name" value="#{'csl'}"/>
+        <property name="age" value="#{4*10}"/>
+<!--        假设体重是从狗的实例对象的年龄中获取-->
+        <property name="weight" value="#{d1.age}"/>
+        <property name="height" value="#{10}"/>
+        <property name="dog" ref="d1"/>
+    </bean>
+
+<!--    狗狗-->
+    <bean id="d1" class="com.squ.entity.Dog">
+        <property name="age" value="2"/>
+        <property name="color" value="灰色"/>
+        <property name="type" value="中华田园"/>
+    </bean>
+</beans>
