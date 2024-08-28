@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+<!--    数据源配置  链接数据库的一些参数  url  driver  name  password
+        放到配置文件中database.properties
+        从配置文件中读取
+-->
+    <context:property-placeholder location="classpath:database.properties" />
+
+<!--    配置德鲁伊数据源连接池-->
+    <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource">
+        <property name="username" value="${jqr.username}"/>
+        <property name="password" value="${jqr.password}"/>
+        <property name="url" value="${jqr.url}"/>
+        <property name="driverClassName" value="${jqr.driver}"/>
+     </bean>
+<!--    创建jdbctemplate模版对象 注入数据源  查看源码发现可以使用构造注入-->
+    <bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+        <constructor-arg name="dataSource" ref="dataSource"/>
+    </bean>
+<!--    创建dao层实例  注入JDBC模版对象  构造注入|设值注入-->
+    <bean id="foodDao" class="com.squ.dao.iml.FoodDaoImpl">
+<!--        <constructor-arg name="jdbcTemplate" ref="jdbcTemplate"/>-->
+        <property name="jdbcTemplate" ref="jdbcTemplate"/>
+    </bean>
+
+<!--    创建service实例  注入dao实例对象-->
+    <bean id="foodService" class="com.squ.service.Impl.FoodServiceImpl">
+        <property name="dao" ref="foodDao"/>
+    </bean>
+
+<!--    创建controller层实例-->
+    <bean id="controller" class="com.squ.controller.FoodController">
+        <property name="service" ref="foodService"/>
+    </bean>
+</beans>

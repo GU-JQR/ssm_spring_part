@@ -12,6 +12,7 @@
     <modules>
         <module>spring-ioc-01</module>
         <module>spring_ioc_02</module>
+        <module>spring_ioc_healthfood</module>
     </modules>
 
     <properties>
