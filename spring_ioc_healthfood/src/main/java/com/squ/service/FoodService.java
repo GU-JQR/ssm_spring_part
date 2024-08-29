@@ -12,4 +12,8 @@ import java.util.List;
  */
 public interface FoodService {
     List<Food> findAll();//
+
+    int addOne(Food food);//添加一条
+
+    Food queryOne(int id);
 }

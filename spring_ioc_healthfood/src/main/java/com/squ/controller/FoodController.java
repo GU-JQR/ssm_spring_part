@@ -31,5 +31,21 @@ public class FoodController {
         for (int i = 0; i < foodli.size(); i++) {
             System.out.println(foodli.get(i).toString());
         }
+
+
+    }
+    public  void addOne(){
+        Food food = new Food( "青岛", "海鲜", "青岛啤酒");
+        int i = service.addOne(food);
+        if(i==1){
+            System.out.println("添加成功");
+        }else{
+            System.out.println("添加失败");
+        }
+    }
+
+    public void queryOne(){
+        Food food = service.queryOne(2);
+        System.out.println(food.toString());
     }
 }

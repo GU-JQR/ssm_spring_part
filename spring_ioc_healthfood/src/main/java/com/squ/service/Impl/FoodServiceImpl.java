@@ -30,8 +30,20 @@ public class FoodServiceImpl implements FoodService {
         this.dao = dao;
     }
 
+    //查询全部业务
     @Override
     public List<Food> findAll() {
         return dao.queryAll();
+    }
+
+    //添加一条业务
+    @Override
+    public int addOne(Food food) {
+        return dao.addOne(food);
+    }
+
+    @Override
+    public Food queryOne(int id) {
+        return dao.queryone(id);
     }
 }

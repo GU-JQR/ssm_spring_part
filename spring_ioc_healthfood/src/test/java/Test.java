@@ -1,4 +1,5 @@
 import com.squ.controller.FoodController;
+import com.squ.entity.Food;
 import org.apache.log4j.Logger;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
@@ -16,5 +17,19 @@ public class Test {
         FoodController controller = atx.getBean("controller", FoodController.class);
         //3.
         controller.queryAllTest();
+    }
+
+    @org.junit.jupiter.api.Test
+    public  void test02(){
+        ApplicationContext atx=new ClassPathXmlApplicationContext("springconfig.xml");
+        FoodController controller = atx.getBean("controller", FoodController.class);
+        controller.addOne();
+    }
+
+    @org.junit.jupiter.api.Test
+    public void test03(){
+        ApplicationContext atx=new ClassPathXmlApplicationContext("springconfig.xml");
+        FoodController controller=atx.getBean("controller",FoodController.class);
+        controller.queryOne();
     }
 }

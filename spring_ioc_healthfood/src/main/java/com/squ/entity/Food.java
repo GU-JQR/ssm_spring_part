@@ -16,4 +16,12 @@ public class Food {
     private String foodname;
     private String noeat;
     private String fooddesc;
+
+    public Food(String foodname, String noeat, String fooddesc) {
+        this.foodname = foodname;
+        this.noeat = noeat;
+        this.fooddesc = fooddesc;
+    }
+    //构造方法 除了id
+
 }

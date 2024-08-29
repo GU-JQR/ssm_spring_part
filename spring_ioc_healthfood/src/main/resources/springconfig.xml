@@ -36,4 +36,6 @@ http://www.springframework.org/schema/context https://www.springframework.org/sc
     <bean id="controller" class="com.squ.controller.FoodController">
         <property name="service" ref="foodService"/>
     </bean>
+
+
 </beans>

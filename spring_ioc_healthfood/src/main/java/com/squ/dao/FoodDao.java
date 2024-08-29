@@ -13,4 +13,8 @@ import java.util.List;
  */
 public interface FoodDao {
     List<Food> queryAll();//查询全部
+
+    int addOne(Food food);//增加一条
+
+    Food queryone(Integer id);
 }
