@@ -2,10 +2,8 @@ package com.squ.config;
 
 import com.squ.entity.Cat;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.PropertySource;
+import org.springframework.beans.factory.config.ConfigurableBeanFactory;
+import org.springframework.context.annotation.*;
 
 /**
  * spring新版本中可以通过编写配置类的方式 实现依赖注入+bean创建过程
@@ -26,6 +24,7 @@ public class JavaConfig {
      * 3.参数值可以通过外部文件获取
      */
     @Bean
+    @Scope(value = ConfigurableBeanFactory.SCOPE_SINGLETON)
     public Cat createCat(@Value("${c.nickname}")String nickname,@Value("${c.color}")String color){
         //实例化组件
         Cat cat=new Cat();
