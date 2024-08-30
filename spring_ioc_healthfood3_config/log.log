@@ -1,0 +1,268 @@
+2024-8-28 11:40:14[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:14[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:15[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:15[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:16[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:16[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:17[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:17[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:18[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:18[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:19[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:19[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:20[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:20[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:21[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:22[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:22[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:23[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:23[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:24[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:24[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:25[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:25[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:26[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:26[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:27[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:27[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:28[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:28[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:29[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:29[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:30[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:30[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:32[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:32[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:33[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:33[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:34[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:34[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:35[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:35[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:38[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:38[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:39[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:39[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:40[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:40[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:41[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:41[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:42[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:44[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:44[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:44[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:45[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:45[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:46[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:46[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:47[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:47[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:48[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:48[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:50[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:50[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:51[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:51[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:52[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
+2024-8-28 11:40:52[ERROR](DruidDataSource.java:2840) create connection SQLException, url: jdbc:musql://localhost:3306/squ2021fooddb, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:musql://localhost:3306/squ2021fooddb, driverClass com.mysql.cj.jdbc.Driver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1727)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2838)
