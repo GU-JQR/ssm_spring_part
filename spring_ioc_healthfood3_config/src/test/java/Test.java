@@ -53,5 +53,9 @@ public class Test {
         }
         JdbcTemplate jdbcTemplate = atx.getBean("jdbcTemplate", JdbcTemplate.class);
         System.out.println(jdbcTemplate);
+
+        //测试查询全部
+        FoodController controller = atx.getBean("controller", FoodController.class);
+        controller.queryAllTest();
     }
 }

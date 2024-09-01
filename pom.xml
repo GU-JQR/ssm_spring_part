@@ -15,6 +15,7 @@
         <module>spring_ioc_healthfood</module>
         <module>spring_ioc_03</module>
         <module>spring-ioc-config</module>
+        <module>spring_ioc_take_out</module>
     </modules>
 
     <properties>
